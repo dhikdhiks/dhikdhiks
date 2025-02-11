@@ -1,5 +1,41 @@
-# 💫 About Me:
-🚀 About Me<br>I'm passionate about networking, system administration, and full-stack development. My expertise spans across:<br><br>Networking: Cisco & MikroTik<br>Linux Server: Administration & Deployment<br>Web Development: HTML, CSS, JavaScript, PHP, Laravel<br>Programming: Python, IoT, and AI<br>I love working on innovative projects, exploring new technologies, and sharing my knowledge with the community. Let's connect and collaborate!<br><br>🌍 Open to new challenges and learning opportunities!
+# 💫 About Me
+
+---
+
+### 🚀 Who Am I?
+I'm a tech enthusiast with a passion for **networking**, **system administration**, and **full-stack development**. My expertise spans across multiple domains, and I thrive on solving complex problems while exploring cutting-edge technologies.
+
+---
+
+### 🔧 My Expertise
+
+- **Networking**:  
+  - Cisco & MikroTik configurations  
+  - Network design, troubleshooting, and optimization  
+
+- **Linux Server**:  
+  - System administration & deployment  
+  - Automation with Bash scripting  
+
+- **Web Development**:  
+  - Frontend: HTML, CSS, JavaScript  
+  - Backend: PHP, Laravel  
+  - APIs, RESTful services, and database management  
+
+- **Programming**:  
+  - Python (automation, IoT, AI/ML)  
+  - Scripting and application development  
+
+- **Other Skills**:  
+  - IoT projects and hardware integration  
+  - Artificial Intelligence and Machine Learning basics  
+
+---
+
+### 🌟 What I Love Doing
+- Working on **innovative projects** that push the boundaries of technology.  
+- Exploring **new tools and frameworks** to stay ahead in the tech world.  
+- Sharing my knowledge through **tutorials, blogs, and open-source contributions**.  
 
 
 ## 🌐 Socials:
