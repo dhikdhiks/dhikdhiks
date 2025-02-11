@@ -70,12 +70,10 @@ I'm a tech enthusiast with a passion for **networking**, **system administration
 
 ---
 
-## 🎮 Snake Game Mini RGB
-
-Play a mini **Snake Game** directly in your browser! This interactive game is built using HTML, CSS, and JavaScript. Click the button below to start playing:
-
-<a href="https://dhikdhiks.github.io/snake-game/" target="_blank">
-  <img src="https://img.shields.io/badge/Play%20Snake%20Game-%234CAF50.svg?style=for-the-badge&logo=games&logoColor=white" alt="Play Snake Game">
+## 🌐 Portofolio
+My Portofolio Website
+<a href="https://suradem.me" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Portofolio-%234CAF50.svg?style=for-the-badge&logo=games&logoColor=white" alt="Visit Portofolio Website">
 </a>
 
 ---
