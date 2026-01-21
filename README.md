@@ -1,20 +1,127 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>- Internship in the sales department as an admin (data & reporting)<br><br>👯 I’m looking to collaborate on<br>- Backend projects and database-driven applications<br>- Blockchain / Web3 learning or early-stage projects<br><br>🤝 I’m looking for help with<br>- Smart contract best practices and security<br>- Real-world blockchain architecture (on-chain vs off-chain)<br>- Writing cleaner and more efficient backend logic<br><br>🌱 I’m currently learning<br>- Blockchain fundamentals & smart contract development (Solidity)<br>- Backend system design and SQL optimization<br>- Backend integration with decentralized applications<br><br>💬 Ask me about<br>- Backend development & SQL databases<br>- Blockchain basics and smart contract logic<br>- Linux, basic networking, and system workflows<br>- Sales admin workflows and data handling<br><br>⚡ Fun fact<br>- Like game & Singing<br>- Scared of worms.
+<!-- HEADER : FULL MOON NIGHT -->
+<div align="center">
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhikdhiks&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dhikdhiks&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhikdhiks&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <!-- FULL LANDSCAPE GIF -->
+  <img src="https://s12.gifyu.com/images/bkK8t.gif" width="100%" alt="Full Moon Night Banner" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhikdhiks&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
+  <h1 style="
+    color:#E9D5FF;
+    text-shadow: 0 0 12px #A855F7;
+    margin-top:30px;
+  ">
+    🌕 Full Moon Developer 🌌
+  </h1>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dhikdhiks&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
+  <p style="color:#E5E7EB; max-width:720px;">
+    Walking silently under the full moon — building systems, logic, and code
+    with calm precision.
+  </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=dhikdhiks&icon=9&color=10)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<hr style="border:1px solid #3B0764;"/>
+
+<!-- ABOUT ME -->
+<h2 style="color:#C084FC;">💫 About Me</h2>
+
+<ul style="color:#E5E7EB;">
+  <li>🔭 <b>Currently working on</b>
+    <ul>
+      <li>Internship in the sales department as an admin (data & reporting)</li>
+    </ul>
+  </li>
+
+  <li>👯 <b>Looking to collaborate on</b>
+    <ul>
+      <li>Backend projects and database-driven applications</li>
+      <li>Blockchain / Web3 learning or early-stage projects</li>
+    </ul>
+  </li>
+
+  <li>🤝 <b>Looking for help with</b>
+    <ul>
+      <li>Smart contract best practices and security</li>
+      <li>Real-world blockchain architecture (on-chain vs off-chain)</li>
+      <li>Writing cleaner and more efficient backend logic</li>
+    </ul>
+  </li>
+
+  <li>🌱 <b>Currently learning</b>
+    <ul>
+      <li>Blockchain fundamentals & smart contract development (Solidity)</li>
+      <li>Backend system design and SQL optimization</li>
+      <li>Backend integration with decentralized applications</li>
+    </ul>
+  </li>
+
+  <li>💬 <b>Ask me about</b>
+    <ul>
+      <li>Backend development & SQL databases</li>
+      <li>Blockchain basics and smart contract logic</li>
+      <li>Linux, basic networking, and system workflows</li>
+      <li>Sales admin workflows and data handling</li>
+    </ul>
+  </li>
+
+  <li>⚡ <b>Fun fact</b>
+    <ul>
+      <li>Likes games & singing 🎮🎤</li>
+      <li>Scared of worms 🪱</li>
+    </ul>
+  </li>
+</ul>
+
+<hr style="border:1px solid #3B0764;"/>
+
+<!-- TECH STACK -->
+<h2 style="color:#C084FC;">💻 Tech Stack</h2>
+
+<p>
+  <!-- Backend / Programming -->
+  <img src="https://img.shields.io/badge/TypeScript-4B0082?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-312E81?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/Solidity-111827?style=for-the-badge&logo=solidity&logoColor=white"/>
+</p>
+
+<p>
+  <!-- Web & Cloud -->
+  <img src="https://img.shields.io/badge/HTML5-7C2D12?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/Laravel-3B0764?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-1E1B4B?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</p>
+
+<p>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-3F1D38?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</p>
+
+<hr style="border:1px solid #3B0764;"/>
+
+<!-- GITHUB STATS -->
+<h2 style="color:#C084FC;">📊 GitHub Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dhikdhiks&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
+<br/><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=dhikdhiks&theme=midnight-purple&hide_border=true"/>
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikdhiks&theme=midnight-purple&hide_border=true&layout=compact"/>
+
+<hr style="border:1px solid #3B0764;"/>
+
+<!-- TROPHIES -->
+<h2 style="color:#C084FC;">🏆 GitHub Trophies</h2>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dhikdhiks&theme=dracula&no-frame=true&no-bg=true"/>
+
+<hr style="border:1px solid #3B0764;"/>
+
+<!-- FOOTER -->
+<div align="center" style="color:#9CA3AF;">
+  🌕 Silent like the night — precise like the moon.
+  <br/><br/>
+  <img src="https://visitcount.itsvg.in/api?id=dhikdhiks&icon=2&color=12"/>
+</div>
