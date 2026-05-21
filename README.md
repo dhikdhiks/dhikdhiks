@@ -101,12 +101,6 @@ and modern decentralized technologies.
 
 <div align="center">
 
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikdhiks&layout=compact&theme=midnight-purple&hide_border=true"
-/>
-
 <br/><br/>
 
 <img
