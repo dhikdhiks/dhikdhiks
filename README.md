@@ -99,23 +99,26 @@ and modern decentralized technologies.
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=dhikdhiks&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"
-    height="170"
-  />
+<div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikdhiks&layout=compact&theme=midnight-purple&hide_border=true"
-    height="170"
-  />
-</p>
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=dhikdhiks&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"
+/>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=dhikdhiks&theme=midnight-purple&hide_border=true"
-  />
-</p>
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikdhiks&layout=compact&theme=midnight-purple&hide_border=true"
+/>
+
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=dhikdhiks&theme=midnight-purple&hide_border=true"
+/>
+
+</div>
+
 
 
 
