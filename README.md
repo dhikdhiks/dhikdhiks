@@ -122,7 +122,6 @@ and modern decentralized technologies.
 
 ### 🌌 “Calm mind. Precise systems. Endless learning.”
 
-<img src="https://visitcount.itsvg.in/api?id=dhikdhiks&icon=2&color=12"/>
 
 </div>
 
