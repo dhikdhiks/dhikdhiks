@@ -16,7 +16,6 @@ and modern decentralized technologies.
 
 </div>
 
----
 
 # 💫 About Me
 
@@ -53,7 +52,7 @@ and modern decentralized technologies.
   - Loves games & music 🎮🎤
   - Enjoys quiet night coding 🌙
 
----
+
 
 # 💻 Tech Stack
 
@@ -95,7 +94,7 @@ and modern decentralized technologies.
 <img src="https://img.shields.io/badge/Web3-2E1065?style=for-the-badge"/>
 </p>
 
----
+
 
 
 # 📊 GitHub Stats
@@ -117,14 +116,14 @@ and modern decentralized technologies.
     src="https://streak-stats.demolab.com?user=dhikdhiks&theme=midnight-purple&hide_border=true"
   />
 </p>
-```
+
 
 
 # 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=dhikdhiks&theme=dracula&no-frame=true&no-bg=true"/>
 
----
+
 
 <div align="center">
 
@@ -133,4 +132,4 @@ and modern decentralized technologies.
 <img src="https://visitcount.itsvg.in/api?id=dhikdhiks&icon=2&color=12"/>
 
 </div>
-```
+
