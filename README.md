@@ -97,19 +97,28 @@ and modern decentralized technologies.
 
 ---
 
+
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhikdhiks&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dhikdhiks&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"
+    height="170"
+  />
 
-<br/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikdhiks&layout=compact&theme=midnight-purple&hide_border=true"
+    height="170"
+  />
+</p>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=dhikdhiks&theme=midnight-purple&hide_border=true"/>
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=dhikdhiks&theme=midnight-purple&hide_border=true"
+  />
+</p>
+```
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikdhiks&theme=midnight-purple&hide_border=true&layout=compact"/>
-
----
 
 # 🏆 GitHub Trophies
 
