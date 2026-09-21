@@ -186,7 +186,7 @@ Full-Stack Web Development, Network Systems, and Automation.
 
 <p>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMy4xNSAyLjUxNmExLjIxMiAxLjIxMiAwIDAgMC0xLjExNC4yNTFsLTE3LjAxIDE1Ljc4LTQuOTItMy43NmExLjIxMiAxLjIxMiAwIDAgMC0xLjc3NCAxLjAxNnY4LjQxN2ExLjIxMiAxLjIxMiAwIDAgMCAxLjc3NCAxLTAxNmw0LjkyLTMuNzYgMTcuMDEgMTUuNzhhMS4yMTIgMS4yMTIgMCAwIDAgMS44ODYtLjgwM1YzLjMxOWExLjIxMiAxLjIxMiAwIDAgMC0uNzM2LTEuODAzem0tMS4yMyA1LjM0MnYxMC4yODRsLTcuMi01LjE0MiA3LjItNS4xNDJ6Ii8+PC9zdmc+" alt="Visual Studio Code"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
