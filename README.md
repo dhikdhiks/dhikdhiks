@@ -183,31 +183,6 @@ Full-Stack Web Development, and Network Systems.
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=dhikdhiks&theme=react-dark&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph"
-  alt="GitHub activity graph"
-/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy-rstar327.vercel.app/api/?username=dhikdhiks&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7"
-  alt="GitHub trophies"
-/>
-
-</div>
-
----
 
 ## 🌌 Contribution Philosophy
 
