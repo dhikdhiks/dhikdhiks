@@ -87,116 +87,114 @@ Full-Stack Web Development, Network Systems, and Automation.
 ### 🤖 AI, Agents, and Automation
 
 <p>
-  <img src="https://img.shields.io/badge/RAG-4C1D95?style=for-the-badge&logo=bookstack&logoColor=white" alt="RAG"/>
-  <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=robotframework&logoColor=fff" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/AI_Orchestration-7C3AED?style=for-the-badge&logo=dependabot&logoColor=white" alt="AI Orchestration"/>
-  <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-4338CA?style=for-the-badge&logo=chatbot&logoColor=white" alt="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/Agent_Memory-1E3A8A?style=for-the-badge&logo=redis&logoColor=white" alt="Agent Memory"/>
-  <img src="https://img.shields.io/badge/OpenCode-0F172A?style=for-the-badge&logo=codeforces&logoColor=white" alt="OpenCode"/>
-  <img src="https://img.shields.io/badge/9Router-111827?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIgMTkyIj48cmVjdCB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgcng9IjI0IiBmaWxsPSIjZmYyZTU0Ii8+PHRleHQgeD0iOTYiIHk9IjEyMCIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjgwIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2ZmZmZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+OVI8L3RleHQ+PC9zdmc+" alt="9Router"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/RAG-4C1D95?style=for-the-badge&logo=book&logoColor=white" alt="RAG"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/AI_Agents-111827?style=for-the-badge&logo=bot&logoColor=white" alt="AI Agents"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/AI_Orchestration-7C3AED?style=for-the-badge&logo=dependabot&logoColor=white" alt="AI Orchestration"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Ollama-111827?style=for-the-badge&logo=terminal&logoColor=white" alt="Ollama"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Prompt_Engineering-4338CA?style=for-the-badge&logo=comment-discussion&logoColor=white" alt="Prompt Engineering"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Agent_Memory-1E3A8A?style=for-the-badge&logo=database&logoColor=white" alt="Agent Memory"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/OpenCode-0F172A?style=for-the-badge&logo=code&logoColor=white" alt="OpenCode"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/9Router-111827?style=for-the-badge&logo=server&logoColor=white" alt="9Router"/>
+</p>
 
 ### 🌐 Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
-  <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 12"/>
-  <img src="https://img.shields.io/badge/Laravel_Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Laravel Livewire"/>
-  <img src="https://img.shields.io/badge/Laravel_Filament-F59E0B?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Filament"/>
-  <img src="https://img.shields.io/badge/Laravel_Shield-7C3AED?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Shield"/>
-  <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/API_Authentication-2563EB?style=for-the-badge&logo=auth0&logoColor=white" alt="API Authentication"/>
-  <img src="https://img.shields.io/badge/Form_Request_Validation-DC2626?style=for-the-badge&logo=laravel&logoColor=white" alt="Form Request Validation"/>
-  <img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Eloquent ORM"/>
-  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="PHP Composer"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/HTML5-E34F26?style=for-the-badge&logo=html&logoColor=white" alt="HTML5"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white" alt="Next.js"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/shadcn%2Fui-000000?style=for-the-badge&logo=sparkles&logoColor=white" alt="shadcn/ui"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 12"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Laravel_Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Laravel Livewire"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Laravel_Filament-F59E0B?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Filament"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Laravel_Shield-7C3AED?style=for-the-badge&logo=shield&logoColor=white" alt="Laravel Shield"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/REST_API-111827?style=for-the-badge&logo=zap&logoColor=white" alt="REST API"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/API_Authentication-2563EB?style=for-the-badge&logo=lock&logoColor=white" alt="API Authentication"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Form_Request_Validation-DC2626?style=for-the-badge&logo=check-circle&logoColor=white" alt="Form Request Validation"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=database&logoColor=white" alt="Laravel Eloquent ORM"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Composer-885630?style=for-the-badge&logo=package&logoColor=white" alt="PHP Composer"/>
 </p>
 
 ### 🗄️ Databases and Data Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Database_Migration-7C3AED?style=for-the-badge&logo=flyway&logoColor=white" alt="Database Migration"/>
-  <img src="https://img.shields.io/badge/Database_Seeding-9333EA?style=for-the-badge&logo=laravel&logoColor=white" alt="Database Seeding"/>
-  <img src="https://img.shields.io/badge/Database_Cluster-1D4ED8?style=for-the-badge&logo=databricks&logoColor=white" alt="Database Cluster"/>
-  <img src="https://img.shields.io/badge/Backup_and_Migration-0F766E?style=for-the-badge&logo=files&logoColor=white" alt="Backup and Migration"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgres&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/SQLite-003B57?style=for-the-badge&logo=database&logoColor=white" alt="SQLite"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Database_Migration-7C3AED?style=for-the-badge&logo=sync&logoColor=white" alt="Database Migration"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Database_Seeding-9333EA?style=for-the-badge&logo=repo-clone&logoColor=white" alt="Database Seeding"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Database_Cluster-1D4ED8?style=for-the-badge&logo=server&logoColor=white" alt="Database Cluster"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Backup_and_Migration-0F766E?style=for-the-badge&logo=database&logoColor=white" alt="Backup and Migration"/>
 </p>
 
 ### 🔐 Security, Authorization, and Access Control
 
 <p>
-  <img src="https://img.shields.io/badge/Role--Based_Access_Control-7C3AED?style=for-the-badge&logo=auth0&logoColor=white" alt="Role-Based Access Control"/>
-  <img src="https://img.shields.io/badge/Firewall-991B1B?style=for-the-badge&logo=fortinet&logoColor=white" alt="Firewall"/>
-  <img src="https://img.shields.io/badge/NAT-334155?style=for-the-badge&logo=cisco&logoColor=white" alt="NAT"/>
-  <img src="https://img.shields.io/badge/VPN-2563EB?style=for-the-badge&logo=wireguard&logoColor=white" alt="VPN"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Role--Based_Access_Control-7C3AED?style=for-the-badge&logo=people&logoColor=white" alt="Role-Based Access Control"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Firewall-991B1B?style=for-the-badge&logo=shield&logoColor=white" alt="Firewall"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/NAT-334155?style=for-the-badge&logo=globe&logoColor=white" alt="NAT"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/VPN-2563EB?style=for-the-badge&logo=lock&logoColor=white" alt="VPN"/>
 </p>
 
 ### ☁️ Infrastructure, DevOps, and Cloud
 
 <p>
-  <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE"/>
-  <img src="https://img.shields.io/badge/Proxmox_Web_Interface-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox Web Interface"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
-  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server"/>
-  <img src="https://img.shields.io/badge/WSL-0F172A?style=for-the-badge&logo=linux&logoColor=white" alt="WSL"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Reverse_Proxy-475569?style=for-the-badge&logo=nginx&logoColor=white" alt="Reverse Proxy"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/SSH-111827?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="SSH"/>
-  <img src="https://img.shields.io/badge/Environment_Variables-334155?style=for-the-badge&logo=dotenv&logoColor=white" alt="Environment Variables"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Server_Monitoring-0F766E?style=for-the-badge&logo=grafana&logoColor=white" alt="Server Monitoring"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Proxmox_VE-E57000?style=for-the-badge&logo=server&logoColor=white" alt="Proxmox VE"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Proxmox_Web_Interface-E57000?style=for-the-badge&logo=desktop-download&logoColor=white" alt="Proxmox Web Interface"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/WSL-0F172A?style=for-the-badge&logo=terminal&logoColor=white" alt="WSL"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Reverse_Proxy-475569?style=for-the-badge&logo=arrow-switch&logoColor=white" alt="Reverse Proxy"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/SSH-111827?style=for-the-badge&logo=terminal&logoColor=white" alt="SSH"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Environment_Variables-334155?style=for-the-badge&logo=key&logoColor=white" alt="Environment Variables"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Server_Monitoring-0F766E?style=for-the-badge&logo=graph&logoColor=white" alt="Server Monitoring"/>
 </p>
 
 ### 🌐 Networking and Systems
 
 <p>
-  <img src="https://img.shields.io/badge/MikroTik_RouterOS-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik RouterOS"/>
-  <img src="https://img.shields.io/badge/MTCNA-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MTCNA"/>
-  <img src="https://img.shields.io/badge/TCP%2FIP-2563EB?style=for-the-badge&logo=cisco&logoColor=white" alt="TCP/IP"/>
-  <img src="https://img.shields.io/badge/IPv4_Subnetting-1D4ED8?style=for-the-badge&logo=linux&logoColor=white" alt="IPv4 Subnetting"/>
-  <img src="https://img.shields.io/badge/Static_Routing-0F766E?style=for-the-badge&logo=cisco&logoColor=white" alt="Static Routing"/>
-  <img src="https://img.shields.io/badge/Default_Routing-0F766E?style=for-the-badge&logo=cisco&logoColor=white" alt="Default Routing"/>
-  <img src="https://img.shields.io/badge/Firewall-991B1B?style=for-the-badge&logo=fortinet&logoColor=white" alt="Firewall"/>
-  <img src="https://img.shields.io/badge/NAT-334155?style=for-the-badge&logo=cisco&logoColor=white" alt="NAT"/>
-  <img src="https://img.shields.io/badge/DHCP-2563EB?style=for-the-badge&logo=cloudflare&logoColor=white" alt="DHCP"/>
-  <img src="https://img.shields.io/badge/DNS-1D4ED8?style=for-the-badge&logo=cloudflare&logoColor=white" alt="DNS"/>
-  <img src="https://img.shields.io/badge/VPN-2563EB?style=for-the-badge&logo=wireguard&logoColor=white" alt="VPN"/>
-  <img src="https://img.shields.io/badge/Load_Balancing-1D4ED8?style=for-the-badge&logo=nginx&logoColor=white" alt="Load Balancing"/>
-  <img src="https://img.shields.io/badge/Failover-B45309?style=for-the-badge&logo=buffer&logoColor=white" alt="Failover"/>
-  <img src="https://img.shields.io/badge/Network_Troubleshooting-475569?style=for-the-badge&logo=wireshark&logoColor=white" alt="Network Troubleshooting"/>
-  <img src="https://img.shields.io/badge/WinBox-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="WinBox"/>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/MikroTik_RouterOS-293239?style=for-the-badge&logo=router&logoColor=white" alt="MikroTik RouterOS"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/MTCNA-293239?style=for-the-badge&logo=verified&logoColor=white" alt="MTCNA"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/TCP%2FIP-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="TCP/IP"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/IPv4_Subnetting-1D4ED8?style=for-the-badge&logo=device-desktop&logoColor=white" alt="IPv4 Subnetting"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Static_Routing-0F766E?style=for-the-badge&logo=iterations&logoColor=white" alt="Static Routing"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Default_Routing-0F766E?style=for-the-badge&logo=sign-out&logoColor=white" alt="Default Routing"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Firewall-991B1B?style=for-the-badge&logo=shield&logoColor=white" alt="Firewall"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/NAT-334155?style=for-the-badge&logo=arrow-right&logoColor=white" alt="NAT"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/DHCP-2563EB?style=for-the-badge&logo=broadcast&logoColor=white" alt="DHCP"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/DNS-1D4ED8?style=for-the-badge&logo=globe&logoColor=white" alt="DNS"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/VPN-2563EB?style=for-the-badge&logo=lock&logoColor=white" alt="VPN"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Load_Balancing-1D4ED8?style=for-the-badge&logo=repo-forked&logoColor=white" alt="Load Balancing"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Failover-B45309?style=for-the-badge&logo=history&logoColor=white" alt="Failover"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Network_Troubleshooting-475569?style=for-the-badge&logo=tools&logoColor=white" alt="Network Troubleshooting"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/WinBox-293239?style=for-the-badge&logo=terminal&logoColor=white" alt="WinBox"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/MQTT-660066?style=for-the-badge&logo=broadcast&logoColor=white" alt="MQTT"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Cisco-1BA0D7?style=for-the-badge&logo=globe&logoColor=white" alt="Cisco"/>
 </p>
 
 ### 🛠️ Development Tools
 
 <p>
-  <!-- PowerShell -->
   <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-
-  <!-- Visual Studio Code -->
   <img src="https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=vsc&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver"/>
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/>
-  <img src="https://img.shields.io/badge/Terminal-111827?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Terminal"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/DBeaver-382923?style=for-the-badge&logo=database&logoColor=white" alt="DBeaver"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=database&logoColor=white" alt="phpMyAdmin"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Terminal-111827?style=for-the-badge&logo=terminal&logoColor=white" alt="Terminal"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Bash-121011?style=for-the-badge&logo=terminal&logoColor=white" alt="Bash"/>
 </p>
 
 ### 📊 Business and Data Analytics
