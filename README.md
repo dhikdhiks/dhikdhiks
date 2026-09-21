@@ -94,7 +94,10 @@ Full-Stack Web Development, Network Systems, and Automation.
   <img src="https://img.shields.io/badge/Prompt_Engineering-4338CA?style=for-the-badge&logo=chatbot&logoColor=white" alt="Prompt Engineering"/>
   <img src="https://img.shields.io/badge/Agent_Memory-1E3A8A?style=for-the-badge&logo=redis&logoColor=white" alt="Agent Memory"/>
   <img src="https://img.shields.io/badge/OpenCode-0F172A?style=for-the-badge&logo=codeforces&logoColor=white" alt="OpenCode"/>
-  <img src="https://img.shields.io/badge/9Router-111827?style=for-the-badge&logo=router&logoColor=white" alt="9Router"/>
+  <span style="display: inline-flex; align-items: center;">
+  <img src="https://img.shields.io/badge/9Router-111827?style=for-the-badge" alt="9Router"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/9router.webp" alt="9Router Icon" width="28" height="28" style="vertical-align: middle; margin-left: -4px;"/>
+</span>
 </p>
 
 ### 🌐 Web Development
