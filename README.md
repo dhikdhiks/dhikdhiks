@@ -1,17 +1,16 @@
-
 <!-- HEADER -->
 <div align="center">
 
 <img src="https://s12.gifyu.com/images/bkK8t.gif" width="100%" alt="Moon Banner"/>
 
-# 🌕 Moonlit Systems Engineer
+# 🌕 Moonlit Systems & Data Engineer
 
-Building intelligent systems, backend architectures, and learning machines
+Building intelligent architectures, data pipelines, and AI systems 
 under silent midnight skies.
 
 <p>
-Focused on AI/ML engineering, backend development, Linux systems,
-and modern decentralized technologies.
+Focused on Data Science, AI/ML Engineering, AI Agents, 
+Full-Stack Web Development, and Network Systems.
 </p>
 
 </div>
@@ -20,78 +19,73 @@ and modern decentralized technologies.
 # 💫 About Me
 
 - 🔭 Currently exploring:
-  - Machine Learning & AI Engineering
-  - Intelligent backend systems
-  - Data workflows and automation
+  - Data Science workflows & analysis
+  - Machine Learning & AI engineering
+  - AI Agents & Orchestration ecosystems
 
 - 🌱 Learning:
-  - Python for AI & data science
-  - TensorFlow / Scikit-Learn fundamentals
-  - SQL optimization & backend architecture
-  - Smart contract development (Solidity)
+  - Advanced Python for Data Science & ML
+  - Matplotlib & data visualization workflows
+  - AI agent development & multi-agent systems
+  - Deepening AI & ML fundamentals
 
-- ⚙️ Background:
-  - Laravel & backend systems
-  - Linux environment & server workflows
-  - Mikrotik & basic networking
-  - HTML, CSS, JavaScript fundamentals
+- ⚙️ Background & Certifications:
+  - **MTCNA Certified** (Mikrotik Certified Network Associate)
+  - Full-Stack Web Development (Laravel, Next.js, React)
+  - Professional background in Sales Administration & Digital Sales
+  - Data manipulation using Excel, Google Sheets (Pivot tables), and automated tools
 
 - 🤝 Interested in:
-  - AI/ML collaboration projects
-  - Backend engineering
-  - Blockchain & Web3 ecosystems
+  - AI/ML & Data Science collaboration projects
+  - Full-stack web platforms integrated with AI
+  - AI Orchestrator & autonomous agent research
   - Open-source learning projects
 
 - 💬 Ask me about:
-  - Laravel & backend logic
-  - Linux & networking basics
-  - Databases & APIs
-  - Beginner blockchain concepts
+  - Next.js, React, and Laravel architecture
+  - Mikrotik networking & basic routing
+  - Sales data analysis using Excel / Spreadsheets
+  - Email automation blasting via Thunderbird
 
 - ⚡ Fun facts:
-  - Loves games & music 🎮🎤
-  - Enjoys quiet night coding 🌙
+  - Loves sports and video games 🎮⚽
+  - Passionate about exploring new AI technologies
+  - Enjoys quiet night coding & data crunching 🌙
 
 
 
 # 💻 Tech Stack
 
-## Languages
+## AI & Data Science
 <p>
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-312E81?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-2E1065?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
 </p>
 
-## AI / Data
+## Full-Stack Web Development
 <p>
-<img src="https://img.shields.io/badge/NumPy-1E1B4B?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-312E81?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-1F2937?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-</p>
-
-## Backend & Web
-<p>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
 <img src="https://img.shields.io/badge/Laravel-3B0764?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
-<img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/PHP-2E1065?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-## Systems & Infrastructure
+## Sales Ops & Data Analytics
 <p>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+</p>
+
+## Networks & Infrastructure
+<p>
+<img src="https://shields.io"/>
 <img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/MikroTik-1E1B4B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-## Blockchain
-<p>
-<img src="https://img.shields.io/badge/Solidity-111827?style=for-the-badge&logo=solidity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web3-2E1065?style=for-the-badge"/>
 </p>
 
 
@@ -124,4 +118,3 @@ and modern decentralized technologies.
 
 
 </div>
-
