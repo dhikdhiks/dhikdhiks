@@ -209,7 +209,7 @@ Full-Stack Web Development, Network Systems, and Automation.
   <img src="https://custom-icon-badges.demolab.com/badge/Pivot_Tables-107C41?style=for-the-badge&logo=excel&logoColor=white" alt="Pivot Tables"/>
 
   <!-- Lookup Functions -->
-  <img src="https://custom-icon-badges.demolab.com/badge/Lookup_Functions-217346?style=for-the-badge&logo=excel&logoColor=white" alt="Lookup Functions"/
+  <img src="https://custom-icon-badges.demolab.com/badge/Lookup_Functions-217346?style=for-the-badge&logo=excel&logoColor=white" alt="Lookup Functions"/>
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace"/>
   <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Google Apps Script"/>
