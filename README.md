@@ -88,7 +88,7 @@ Full-Stack Web Development, Network Systems, and Automation.
 
 <p>
   <img src="https://img.shields.io/badge/RAG-4C1D95?style=for-the-badge&logo=bookstack&logoColor=white" alt="RAG"/>
-  <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=robotframework&logoColor=fff" alt="AI Agents"/>
   <img src="https://img.shields.io/badge/AI_Orchestration-7C3AED?style=for-the-badge&logo=dependabot&logoColor=white" alt="AI Orchestration"/>
   <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
   <img src="https://img.shields.io/badge/Prompt_Engineering-4338CA?style=for-the-badge&logo=chatbot&logoColor=white" alt="Prompt Engineering"/>
