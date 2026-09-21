@@ -1,3 +1,82 @@
+<!-- ========================================================= -->
+<!--                 DHIKDHiKS PROFILE README                 -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://s12.gifyu.com/images/bkK8t.gif" width="100%" alt="Moon Banner"/>
+
+# 🌕 Moonlit Systems & Data Engineer
+
+Building intelligent architectures, data pipelines, and AI systems  
+under silent midnight skies.
+
+<p>
+Focused on Data Science, AI/ML Engineering, AI Agents,  
+Full-Stack Web Development, and Network Systems.
+</p>
+
+<p>
+  <a href="https://github.com/dhikdhiks">
+    <img src="https://komarev.com/ghpvc/?username=dhikdhiks&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/dhikdhiks?tab=followers">
+    <img src="https://img.shields.io/github/followers/dhikdhiks?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=7C3AED" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/dhikdhiks?tab=repositories">
+    <img src="https://img.shields.io/github/stars/dhikdhiks?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=F59E0B" alt="GitHub stars"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 💫 About Me
+
+- 🔭 Currently exploring:
+  - Data Science workflows and analysis
+  - Machine Learning and AI Engineering
+  - AI agents and orchestration ecosystems
+  - Multi-agent systems and intelligent automation
+  - AI-powered full-stack applications
+
+- 🌱 Currently learning:
+  - Advanced Python for Data Science and Machine Learning
+  - Matplotlib and data visualization workflows
+  - AI agent development and tool orchestration
+  - Large Language Model application development
+  - Deep learning and modern AI/ML fundamentals
+
+- ⚙️ Background and certifications:
+  - **MTCNA Certified** — MikroTik Certified Network Associate
+  - Full-Stack Web Development using Laravel, Next.js, and React
+  - Professional background in Sales Administration and Digital Sales
+  - Sales data manipulation using Excel and Google Sheets
+  - Pivot tables, reporting, and workflow automation
+
+- 🤝 Interested in:
+  - AI/ML and Data Science collaboration projects
+  - Full-stack platforms integrated with AI
+  - AI orchestrators and autonomous-agent research
+  - Open-source learning projects
+  - Business and sales process automation
+
+- 💬 Ask me about:
+  - Next.js, React, and Laravel architecture
+  - MikroTik networking and basic routing
+  - Sales data analysis using Excel and Google Sheets
+  - Email automation with Thunderbird
+  - API-based web applications
+  - AI-powered tools and automation workflows
+
+- ⚡ Fun facts:
+  - Loves sports and video games 🎮⚽
+  - Passionate about exploring new AI technologies
+  - Enjoys quiet night coding and data crunching 🌙
+
+---
+
 # 💻 Tech Stack
 
 ## 🤖 AI, Agents, and Automation
@@ -72,3 +151,47 @@
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
   <img src="https://img.shields.io/badge/Load_Balancing-1D4ED8?style=for-the-badge&logo=nginx&logoColor=white" alt="Load Balancing"/>
 </p>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+  src="https://github-stats-extended.vercel.app/api?username=dhikdhiks&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&include_all_commits=true"
+  alt="GitHub statistics"
+/>
+
+<br/>
+
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=dhikdhiks&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"
+  alt="Top programming languages"
+/>
+
+<br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=dhikdhiks&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D"
+  alt="GitHub contribution streak"
+/>
+
+</div>
+
+---
+
+
+## 🌌 Contribution Philosophy
+
+<div align="center">
+
+> Calm mind. Precise systems. Endless learning.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" alt="Footer banner"/>
+
+</div>
