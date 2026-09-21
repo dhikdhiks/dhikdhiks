@@ -1,120 +1,207 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://s12.gifyu.com/images/bkK8t.gif" width="100%" alt="Moon Banner"/>
+<img src="https://raw.githubusercontent.com/dhikdhiks/dhikdhiks/main/assets/moon-banner.gif" width="100%" alt="Moon Banner"/>
 
 # 🌕 Moonlit Systems & Data Engineer
 
-Building intelligent architectures, data pipelines, and AI systems 
+Building intelligent architectures, data pipelines, and AI systems  
 under silent midnight skies.
 
 <p>
-Focused on Data Science, AI/ML Engineering, AI Agents, 
+Focused on Data Science, AI/ML Engineering, AI Agents,  
 Full-Stack Web Development, and Network Systems.
+</p>
+
+<p>
+  <a href="https://github.com/dhikdhiks">
+    <img src="https://komarev.com/ghpvc/?username=dhikdhiks&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/dhikdhiks?tab=followers">
+    <img src="https://img.shields.io/github/followers/dhikdhiks?style=for-the-badge&logo=github&label=Followers&color=7C3AED" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/dhikdhiks?tab=repositories">
+    <img src="https://img.shields.io/github/stars/dhikdhiks?style=for-the-badge&logo=github&label=Stars&color=F59E0B" alt="GitHub stars"/>
+  </a>
 </p>
 
 </div>
 
+---
 
 # 💫 About Me
 
 - 🔭 Currently exploring:
-  - Data Science workflows & analysis
-  - Machine Learning & AI engineering
-  - AI Agents & Orchestration ecosystems
+  - Data Science workflows and analysis
+  - Machine Learning and AI Engineering
+  - AI agents, orchestration, and multi-agent systems
+  - Intelligent full-stack applications
 
-- 🌱 Learning:
-  - Advanced Python for Data Science & ML
-  - Matplotlib & data visualization workflows
-  - AI agent development & multi-agent systems
-  - Deepening AI & ML fundamentals
+- 🌱 Currently learning:
+  - Advanced Python for Data Science and Machine Learning
+  - Matplotlib and data visualization workflows
+  - AI agent development and tool orchestration
+  - Deep learning and modern AI/ML fundamentals
 
-- ⚙️ Background & Certifications:
-  - **MTCNA Certified** (Mikrotik Certified Network Associate)
-  - Full-Stack Web Development (Laravel, Next.js, React)
-  - Professional background in Sales Administration & Digital Sales
-  - Data manipulation using Excel, Google Sheets (Pivot tables), and automated tools
+- ⚙️ Background and certifications:
+  - **MTCNA Certified** — MikroTik Certified Network Associate
+  - Full-Stack Web Development using Laravel, Next.js, and React
+  - Professional experience in Sales Administration and Digital Sales
+  - Sales data manipulation using Excel and Google Sheets
+  - Pivot tables, reporting, and workflow automation
 
 - 🤝 Interested in:
-  - AI/ML & Data Science collaboration projects
-  - Full-stack web platforms integrated with AI
-  - AI Orchestrator & autonomous agent research
+  - AI/ML and Data Science collaboration projects
+  - Full-stack platforms integrated with AI
+  - AI orchestration and autonomous-agent research
   - Open-source learning projects
+  - Practical automation for business and sales operations
 
 - 💬 Ask me about:
   - Next.js, React, and Laravel architecture
-  - Mikrotik networking & basic routing
-  - Sales data analysis using Excel / Spreadsheets
-  - Email automation blasting via Thunderbird
+  - MikroTik networking and basic routing
+  - Sales data analysis using Excel and Google Sheets
+  - Email automation and Thunderbird workflows
+  - Building practical AI-powered web applications
 
 - ⚡ Fun facts:
   - Loves sports and video games 🎮⚽
   - Passionate about exploring new AI technologies
-  - Enjoys quiet night coding & data crunching 🌙
+  - Enjoys quiet night coding and data crunching 🌙
 
+---
 
+# 🧰 Tech Stack
 
-# 💻 Tech Stack
+## AI and Data Science
 
-## AI & Data Science
 <p>
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://shields.io"/>
-<img src="https://shields.io"/>
-<img src="https://shields.io"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+## AI Agents and Automation
+
+<p>
+  <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/LLM_Orchestration-4C1D95?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Orchestration"/>
+  <img src="https://img.shields.io/badge/Automation-0F766E?style=for-the-badge&logo= Zapier&logoColor=white" alt="Automation"/>
+  <img src="https://img.shields.io/badge/API_Integration-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Integration"/>
 </p>
 
 ## Full-Stack Web Development
+
 <p>
-<img src="https://shields.io"/>
-<img src="https://shields.io"/>
-<img src="https://img.shields.io/badge/Laravel-3B0764?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
-<img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/PHP-2E1065?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire"/>
+  <img src="https://img.shields.io/badge/Filament-F59E0B?style=for-the-badge&logo=laravel&logoColor=white" alt="Filament"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
 
-## Sales Ops & Data Analytics
+## Databases and Backend
+
 <p>
-<img src="https://shields.io"/>
-<img src="https://shields.io"/>
-<img src="https://shields.io"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Authentication-7C3AED?style=for-the-badge&logo=auth0&logoColor=white" alt="Authentication"/>
 </p>
 
-## Networks & Infrastructure
+## Sales Operations and Analytics
+
 <p>
-<img src="https://shields.io"/>
-<img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
+  <img src="https://img.shields.io/badge/Pivot_Tables-107C41?style=for-the-badge&logo=microsoft&logoColor=white" alt="Pivot Tables"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analysis"/>
+  <img src="https://img.shields.io/badge/Email_Automation-DC2626?style=for-the-badge&logo=thunderbird&logoColor=white" alt="Email Automation"/>
 </p>
 
+## Networks and Infrastructure
 
+<p>
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
+  <img src="https://img.shields.io/badge/VPN-2563EB?style=for-the-badge&logo=wireguard&logoColor=white" alt="VPN"/>
+  <img src="https://img.shields.io/badge/Firewall-991B1B?style=for-the-badge&logo=fortinet&logoColor=white" alt="Firewall"/>
+</p>
 
+## Tools and Platforms
 
-# 📊 GitHub Stats
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/WSL-0F172A?style=for-the-badge&logo=linux&logoColor=white" alt="WSL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/WinBox-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="WinBox"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<br/><br/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=dhikdhiks&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&include_all_commits=true"
+  alt="GitHub statistics"
+/>
 
 <img
-  src="https://streak-stats.demolab.com?user=dhikdhiks&theme=midnight-purple&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikdhiks&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"
+  alt="Top programming languages"
+/>
+
+<br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=dhikdhiks&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D"
+  alt="GitHub contribution streak"
 />
 
 </div>
 
-
-
+---
 
 # 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=dhikdhiks&theme=dracula&no-frame=true&no-bg=true"/>
+<div align="center">
 
+<img
+  src="https://github-profile-trophy.vercel.app/?username=dhikdhiks&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7"
+  alt="GitHub trophies"
+/>
 
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=dhikdhiks&theme=react-dark&hide_border=true&area=true"
+  alt="GitHub activity graph"
+/>
+
+</div>
+
+---
 
 <div align="center">
 
 ### 🌌 “Calm mind. Precise systems. Endless learning.”
-
 
 </div>
