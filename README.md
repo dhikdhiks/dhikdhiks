@@ -129,7 +129,7 @@ Full-Stack Web Development, Network Systems, and Automation.
   <img src="https://img.shields.io/badge/Database_Migration-7C3AED?style=for-the-badge&logo=flyway&logoColor=white" alt="Database Migration"/>
   <img src="https://img.shields.io/badge/Database_Seeding-9333EA?style=for-the-badge&logo=laravel&logoColor=white" alt="Database Seeding"/>
   <img src="https://img.shields.io/badge/Database_Cluster-1D4ED8?style=for-the-badge&logo=databricks&logoColor=white" alt="Database Cluster"/>
-  <img src="https://img.shields.io/badge/Backup_and_Migration-0F766E?style=for-the-badge&logo=backup&logoColor=white" alt="Backup and Migration"/>
+  <img src="https://img.shields.io/badge/Backup_and_Migration-0F766E?style=for-the-badge&logo=files&logoColor=white" alt="Backup and Migration"/>
 </p>
 
 ### 🔐 Security, Authorization, and Access Control
@@ -185,7 +185,8 @@ Full-Stack Web Development, Network Systems, and Automation.
 ### 🛠️ Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
@@ -193,7 +194,6 @@ Full-Stack Web Development, Network Systems, and Automation.
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/>
   <img src="https://img.shields.io/badge/Terminal-111827?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Terminal"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
 </p>
 
 ### 📊 Business and Data Analytics
@@ -203,12 +203,12 @@ Full-Stack Web Development, Network Systems, and Automation.
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace"/>
   <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Google Apps Script"/>
-  <img src="https://img.shields.io/badge/Pivot_Tables-107C41?style=for-the-badge&logo=microsoft&logoColor=white" alt="Pivot Tables"/>
+  <img src="https://img.shields.io/badge/Sales_Administration-475569?style=for-the-badge&logo=microsoft365&logoColor=white" alt="Sales Administration"/>
+  <img src="https://img.shields.io/badge/Pivot_Tables-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Pivot Tables"/>
   <img src="https://img.shields.io/badge/Lookup_Functions-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Lookup Functions"/>
   <img src="https://img.shields.io/badge/Data_Cleaning-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Cleaning"/>
   <img src="https://img.shields.io/badge/Data_Validation-0F766E?style=for-the-badge&logo=googleforms&logoColor=white" alt="Data Validation"/>
   <img src="https://img.shields.io/badge/Sales_Reporting-7C3AED?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Sales Reporting"/>
-  <img src="https://img.shields.io/badge/Sales_Administration-475569?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Sales Administration"/>
   <img src="https://img.shields.io/badge/Digital_Sales-DB2777?style=for-the-badge&logo=shopify&logoColor=white" alt="Digital Sales"/>
   <img src="https://img.shields.io/badge/Email_Automation-DC2626?style=for-the-badge&logo=thunderbird&logoColor=white" alt="Email Automation"/>
   <img src="https://img.shields.io/badge/Thunderbird-0A84FF?style=for-the-badge&logo=thunderbird&logoColor=white" alt="Thunderbird"/>
