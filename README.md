@@ -185,10 +185,8 @@ Full-Stack Web Development, Network Systems, and Automation.
 ### 🛠️ Development Tools
 
 <p>
-  <!-- PowerShell -->
-  <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <!-- Visual Studio Code -->
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=vsc&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
@@ -201,13 +199,20 @@ Full-Stack Web Development, Network Systems, and Automation.
 ### 📊 Business and Data Analytics
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+  <!-- Sales Administration -->
+  <img src="https://custom-icon-badges.demolab.com/badge/Sales_Administration-475569?style=for-the-badge&logo=microsoft&logoColor=white" alt="Sales Administration"/>
+
+  <!-- Microsoft Excel -->
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft_Excel-217346?style=for-the-badge&logo=excel&logoColor=white" alt="Microsoft Excel"/>
+
+  <!-- Pivot Tables -->
+  <img src="https://custom-icon-badges.demolab.com/badge/Pivot_Tables-107C41?style=for-the-badge&logo=excel&logoColor=white" alt="Pivot Tables"/>
+
+  <!-- Lookup Functions -->
+  <img src="https://custom-icon-badges.demolab.com/badge/Lookup_Functions-217346?style=for-the-badge&logo=excel&logoColor=white" alt="Lookup Functions"/
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace"/>
   <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Google Apps Script"/>
-  <img src="https://img.shields.io/badge/Sales_Administration-475569?style=for-the-badge&logo=microsoft365&logoColor=white" alt="Sales Administration"/>
-  <img src="https://img.shields.io/badge/Pivot_Tables-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Pivot Tables"/>
-  <img src="https://img.shields.io/badge/Lookup_Functions-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Lookup Functions"/>
   <img src="https://img.shields.io/badge/Data_Cleaning-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Cleaning"/>
   <img src="https://img.shields.io/badge/Data_Validation-0F766E?style=for-the-badge&logo=googleforms&logoColor=white" alt="Data Validation"/>
   <img src="https://img.shields.io/badge/Sales_Reporting-7C3AED?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Sales Reporting"/>
