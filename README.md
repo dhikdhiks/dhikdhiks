@@ -94,8 +94,7 @@ Full-Stack Web Development, Network Systems, and Automation.
   <img src="https://img.shields.io/badge/Prompt_Engineering-4338CA?style=for-the-badge&logo=chatbot&logoColor=white" alt="Prompt Engineering"/>
   <img src="https://img.shields.io/badge/Agent_Memory-1E3A8A?style=for-the-badge&logo=redis&logoColor=white" alt="Agent Memory"/>
   <img src="https://img.shields.io/badge/OpenCode-0F172A?style=for-the-badge&logo=codeforces&logoColor=white" alt="OpenCode"/>
-  <img src="https://img.shields.io/badge/9Router-111827?style=for-the-badge&logo=data:image/svg%2Bxml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20192%20192%22%3E%3Crect%20width%3D%22192%22%20height%3D%22192%22%20rx%3D%2224%22%20fill%3D%22%23ff2e54%22%2F%3E%3Ctext%20x%3D%2296%22%20y%3D%22120%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%2280%22%20font-weight%3D%22bold%22%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%3E9R%3C%2Ftext%3E%3C%2Fsvg%3E&logoColor=white" alt="9Router"/>
-</p>
+  <img src="https://img.shields.io/badge/9Router-111827?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIgMTkyIj48cmVjdCB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgcng9IjI0IiBmaWxsPSIjZmYyZTU0Ii8+PHRleHQgeD0iOTYiIHk9IjEyMCIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjgwIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2ZmZmZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+OVI8L3RleHQ+PC9zdmc+" alt="9Router"/>
 
 ### 🌐 Web Development
 
