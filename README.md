@@ -257,7 +257,7 @@ Full-Stack Web Development, Network Systems, and Automation.
 
 <div align="center">
 
-> Calm mind. Precise systems. Endless learning.
+> Calm mind. Precise systems. Endless learning, adn Break Your Limits.
 
 </div>
 
