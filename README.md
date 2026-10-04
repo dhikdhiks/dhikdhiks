@@ -17,16 +17,6 @@ Full-Stack Web Development, Network Systems, and Automation.
 </p>
 
 <p>
-  <a href="https://github.com/dhikdhiks">
-    <img src="https://komarev.com/ghpvc/?username=dhikdhiks&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/dhikdhiks?tab=followers">
-    <img src="https://img.shields.io/github/followers/dhikdhiks?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=7C3AED" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/dhikdhiks?tab=repositories">
-    <img src="https://img.shields.io/github/stars/dhikdhiks?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=F59E0B" alt="GitHub stars"/>
-  </a>
-</p>
 
 </div>
 
